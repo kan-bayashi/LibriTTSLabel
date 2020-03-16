@@ -4,6 +4,9 @@ This repository provides word / phone alignment labels for [LibriTTS Corpus](htt
 
 The label files are created by [Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) with provided pretrained model.
 
+> I assume that the labels are used to remove silence parts for E2E-TTS model training.
+> So I did not carefully check the correctness of the boundaries of each phone and word, and oovs.
+
 ## How to use
 
 ```bash
