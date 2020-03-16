@@ -7,7 +7,8 @@ The label files are created by [Montreal-Forced-Aligner](https://github.com/Mont
 
 ## Missing files
 
-Due to the alignment failures, some labels are missing (around 0.4 %).  
+Due to the alignment failures, some labels are missing (1,255 files, around 0.4 %).
+
 Please check `missing_files.txt`
 
 
