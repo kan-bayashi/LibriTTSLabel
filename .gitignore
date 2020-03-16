@@ -1,0 +1,14 @@
+.DS_Store
+*~
+*.pyc
+\#*\#
+.\#*
+*DS_Store
+out.txt
+slurm-*.out
+tmp*
+.eggs/
+.hypothesis/
+.idea
+.vscode*
+*.swp
