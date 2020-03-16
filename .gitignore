@@ -12,3 +12,6 @@ tmp*
 .idea
 .vscode*
 *.swp
+textgrid/
+lab/
+*.tar.gz

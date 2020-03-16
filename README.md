@@ -4,6 +4,16 @@ This repository provides word / phone alignment labels for [LibriTTS Corpus](htt
 
 The label files are created by [Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) with provided pretrained model.
 
+## How to use
+
+```bash
+$ git clone https://github.com/kan-bayashi/LibriTTSCorpusLabel.git
+$ cd LibriTTSCorpusLabel
+$ cat textgrid.tar.gz-* > textgrid.tar.gz
+$ cat lab.tar.gz-* > lab.tar.gz
+$ tar xzvf textgrid.tar.gz
+$ tar xzvf lab.tar.gz
+```
 
 ## Missing files
 
